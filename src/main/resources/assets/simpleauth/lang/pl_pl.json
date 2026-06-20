@@ -1,0 +1,17 @@
+{
+  "simpleauth.screen.login.title":          "Logowanie",
+  "simpleauth.screen.login.password":       "Hasło",
+  "simpleauth.screen.login.password_hint":  "Wpisz hasło...",
+  "simpleauth.screen.login.confirm":        "Zaloguj się",
+  "simpleauth.screen.login.time_left":      "Pozostały czas: %ds",
+  "simpleauth.screen.login.wrong_password": "Nieprawidłowe hasło. Spróbuj ponownie.",
+  "simpleauth.screen.login.rate_limited":   "Zbyt wiele prób. Proszę czekać.",
+  "simpleauth.screen.login.waiting":        "Weryfikacja...",
+
+  "simpleauth.screen.register.title":        "Rejestracja",
+  "simpleauth.screen.register.password":     "Hasło",
+  "simpleauth.screen.register.password_hint":"Wybierz hasło...",
+  "simpleauth.screen.register.confirm":      "Potwierdź hasło",
+  "simpleauth.screen.register.confirm_hint": "Powtórz hasło...",
+  "simpleauth.screen.register.confirm_btn":  "Zarejestruj się"
+}

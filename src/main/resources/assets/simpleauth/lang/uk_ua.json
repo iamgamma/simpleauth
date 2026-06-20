@@ -1,0 +1,17 @@
+{
+  "simpleauth.screen.login.title":          "Вхід",
+  "simpleauth.screen.login.password":       "Пароль",
+  "simpleauth.screen.login.password_hint":  "Введіть пароль...",
+  "simpleauth.screen.login.confirm":        "Увійти",
+  "simpleauth.screen.login.time_left":      "Залишилось часу: %dс",
+  "simpleauth.screen.login.wrong_password": "Неправильний пароль. Спробуйте знову.",
+  "simpleauth.screen.login.rate_limited":   "Забагато спроб. Будь ласка, зачекайте.",
+  "simpleauth.screen.login.waiting":        "Перевірка...",
+
+  "simpleauth.screen.register.title":        "Реєстрація",
+  "simpleauth.screen.register.password":     "Пароль",
+  "simpleauth.screen.register.password_hint":"Придумайте пароль...",
+  "simpleauth.screen.register.confirm":      "Підтвердіть пароль",
+  "simpleauth.screen.register.confirm_hint": "Повторіть пароль...",
+  "simpleauth.screen.register.confirm_btn":  "Зареєструватися"
+}

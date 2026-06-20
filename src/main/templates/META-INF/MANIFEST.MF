@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: simpleauth
+Specification-Vendor: Gamma
+Specification-Version: 1
+Implementation-Title: loving-gould
+Implementation-Version: 5.0.0
+Implementation-Vendor: Gamma
+Implementation-Timestamp: 2026-02-26T12:18:22+0100
+

@@ -1,0 +1,17 @@
+{
+  "simpleauth.screen.login.title":          "Connexion",
+  "simpleauth.screen.login.password":       "Mot de passe",
+  "simpleauth.screen.login.password_hint":  "Entrez votre mot de passe...",
+  "simpleauth.screen.login.confirm":        "Se connecter",
+  "simpleauth.screen.login.time_left":      "Temps restant: %ds",
+  "simpleauth.screen.login.wrong_password": "Mot de passe incorrect. Réessayez.",
+  "simpleauth.screen.login.rate_limited":   "Trop de tentatives. Veuillez patienter.",
+  "simpleauth.screen.login.waiting":        "Vérification...",
+
+  "simpleauth.screen.register.title":        "Inscription",
+  "simpleauth.screen.register.password":     "Mot de passe",
+  "simpleauth.screen.register.password_hint":"Choisissez un mot de passe...",
+  "simpleauth.screen.register.confirm":      "Confirmer le mot de passe",
+  "simpleauth.screen.register.confirm_hint": "Répétez le mot de passe...",
+  "simpleauth.screen.register.confirm_btn":  "S'inscrire"
+}
